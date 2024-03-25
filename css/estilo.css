@@ -12,3 +12,11 @@ p{
     color: blue;
     font-size: 45px;
 }
+nav{
+    font-size: 60px;
+    color: brown;
+
+}
+nav:hover{
+    color: chartreuse;
+}
