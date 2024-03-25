@@ -10,10 +10,14 @@ body{
   
 }
 p{
-    color: blue;
+    color: rgb(215, 32, 44);
     font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 80%;
+    margin: 0 auto;
 }
 nav{
+    
     font-size: 60px;
     color: brown;
     margin: 0 50%;
